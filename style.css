@@ -15,7 +15,7 @@
   }
 
 /* ID selector to select the element with id 'main-header' */
- main-header {
+ #main-header {
   font-size: 22px;
   
 }
