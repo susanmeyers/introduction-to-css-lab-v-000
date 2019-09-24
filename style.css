@@ -15,12 +15,12 @@
   }
 
 /* ID selector to select the element with id 'main-header' */
-#main-header {
-  /* Your code here! */
+main-header {
+  font-size: 22px;
   color:red;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
-  /* Your code here! */
+   font-style: Italic;
 }
