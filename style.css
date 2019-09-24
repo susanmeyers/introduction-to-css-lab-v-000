@@ -16,6 +16,7 @@
 
 /* ID selector to select the element with id 'main-header' */
  main-header {
+  color: red;
   font-size: 22px;
   
 }
